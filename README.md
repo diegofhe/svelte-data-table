@@ -1,3 +1,10 @@
+
+## DEPRECATED ##
+
+This repository was moved to [Healthree Svelte Data Table](https://github.com/HealthTree/svelte-data-table/blob/develop/README.md)
+
+Please go there to install the maintained version
+
 # Svelte Datatable
 
 This is a reactive svelte-datatable. Feats:
